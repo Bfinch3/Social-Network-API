@@ -4,13 +4,19 @@
 
 <br>
 
-Google drive video of CRUD
+## User Story
 
-https://drive.google.com/file/d/18Jl0mJ7loRmm0WRk1SRrjjTVYkamfF3b/view
+AS A social media startup
+I WANT an API for my social network that uses a NoSQL database
+SO THAT my website can handle large amounts of unstructured data
 
 ## Description
 
- API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list
+API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list using Express.js for routing, MongoDB database, and the Mongoose ODM.
+
+API being started and seed data created in Insomnia
+
+https://drive.google.com/file/d/18Jl0mJ7loRmm0WRk1SRrjjTVYkamfF3b/view
 
 ## Table of Contents
 
@@ -23,7 +29,7 @@ https://drive.google.com/file/d/18Jl0mJ7loRmm0WRk1SRrjjTVYkamfF3b/view
 
 ## Installation
 
-
+node index.js to run.
 
 ## Usage
 
